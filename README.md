@@ -13,7 +13,7 @@
 ## Who am I now?
 - Now I'm a team leader (CTO|CIO|VP) guiding my teams to reach our goals.
 - I use a democratic approach and I can extract the full power of almost any employee
-- Passionate by Cloud and serverless computing, also few in love with NodeJS, what a lovely language :)
+- Passionate by Cloud and serverless computing, also felt in love with NodeJS, what a lovely language :)
 
 - 📫 How to reach me? : www.linkedin.com/dartanghan
 
