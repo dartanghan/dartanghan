@@ -1,8 +1,8 @@
 
 ## HEY :)
 - 👋 Hey I’m @dartanghan, an IT lover with more than decades of experience.
-- Started as an support consultant in 1997 and, after graduated, as a Java Programmer nearly 2000s. 
-- In 2010 I became Oracle DBA and few years later built my companies.
+- Started as an support consultant in 1997 and, after graduated, as a Java Programmer 2000s. 
+- In nearly 2010 I became Oracle DBA and few years later built my companies.
 
 ### About my experience
 - 10yrs+ in programming languages such as Python and Java. I also have knowledge in front techs like Vue|React|Css|HTML.
@@ -18,3 +18,5 @@
 - 📫 How to reach me? : www.linkedin.com/dartanghan
 
 > Ah! I also have a veryyyy old blog with my studies: www.dartanghan.com
+
+- If you want to become an IT professional and have any doubts, just ask me. I ll try my best to help you :)
