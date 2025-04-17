@@ -1,7 +1,7 @@
 
 ## HEY :)
-- 👋 Hey I’m @dartanghan, an IT lover with more than decades of experience.
-- Started as an support consultant in 1997 and, after graduated, as a Java Programmer 2000s. 
+- 👋 Hey I’m @dartanghan, an IT lover with decades of experience.
+- Started as a support analyst back in 1997 and, after graduated, I became a Java Developer 2000s. 
 - In nearly 2010 I became Oracle DBA and few years later built my companies.
 
 ### About my experience
@@ -13,7 +13,7 @@
 ## Who am I now?
 - Now I'm a team leader (CTO|CIO|VP) guiding my teams to reach our goals.
 - I use a democratic approach and I can extract the full power of almost any employee
-- Passionate by Cloud and serverless computing, also felt in love with NodeJS, what a lovely language :)
+- Passionate by Cloud and serverless computing
 
 - 📫 How to reach me? : www.linkedin.com/in/dartanghan
 
