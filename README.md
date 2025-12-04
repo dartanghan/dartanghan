@@ -11,9 +11,7 @@
 - 10yrs+ of project management, using PMI, Scrum and Agile.
 
 ## Who am I now?
-- Now I'm a team leader (CTO|CIO|VP) guiding my teams to reach our goals.
-- I use a democratic approach and I can extract the full power of almost any employee
-- Passionate by Cloud and serverless computing
+- Passionate by Cloud, databases and serverless computing
 
 - 📫 How to reach me? : www.linkedin.com/in/dartanghan
 
